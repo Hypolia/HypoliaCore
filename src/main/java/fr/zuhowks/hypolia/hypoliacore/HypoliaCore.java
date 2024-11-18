@@ -6,7 +6,6 @@ public final class HypoliaCore extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
 
     }
 
