@@ -14,4 +14,4 @@ services:
     volumes:
       # attach the relative directory 'data' to the container's /data path
       - ./data:/data
-      - ./../target/hypoliacore-1.0-SNAPSHOT.jar:/data/plugins/core.jar
+      - ./../target/hypoliacore-1.0-SNAPSHOT.jar:/data/plugins/hypoliacore.jar
